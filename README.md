@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm Mubashir Noor 👋
 
-<!--
-**MubashirNoor7/MubashirNoor7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science student at UET Peshawar, building software for real businesses.
 
-Here are some ideas to get you started:
+## What I'm working on
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ⛽ **[FuelStation Manager](https://github.com/MubashirNoor7/fuel-station-manager)** — desktop app (Electron, React, SQLite) for running a petrol pump: nozzle readings, fuel stock, customer credit, expenses, daily close. Built for my own petrol pump.
+- 🧮 **[Pakistan Tools](https://github.com/MubashirNoor7/pakistan-tools)** — free calculators & converters for Pakistan.
+- 🌐 Client websites and web tools — portfolio, business sites.
+
+## Stack
+
+TypeScript · JavaScript · React · Electron · Node.js · SQLite
+
+📍 Peshawar, Pakistan
